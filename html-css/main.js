@@ -1,0 +1,1 @@
+var ch = `ahihi đồ con chó`
